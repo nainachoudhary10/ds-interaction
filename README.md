@@ -1,2 +1,2 @@
 # ds-interaction
-This repository works on problem solving.
+This repository works on problem-solving.
